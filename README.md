@@ -15,7 +15,7 @@ $ cd cyberscanners-WAF-Detector
 $ bash waf_detector.sh
 
 
-මේඑකෙන් වෙන්නෙ මොකක්ද?
+මේකෙන් වෙන්නෙ මොකක්ද?
 
 * WAF test payloads 5ක් define කරනවා:
 
